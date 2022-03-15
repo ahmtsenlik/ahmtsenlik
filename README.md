@@ -7,7 +7,7 @@
 
 - 🏃 I constantly improving myself in Back-End Development
 - 🎓 I am an Computer Engineer</br>
-- 🌱 I’m currently learning **.Net Core and Node.js**
+- 🌱 I’m currently learning **.Net Core**
 
 
 
